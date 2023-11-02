@@ -1,5 +1,7 @@
 .flexible{display: flex; flex-flow: row wrap;}
 .flexible{ justify-content:space-around;}
+.cuadrado{width: 500px; height: 400px;}
+
 h1{color:rgb(255, 238, 0);}
 
 body{background-color:rgb(210, 152, 243);}
