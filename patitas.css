@@ -15,7 +15,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    margin: auto;
+    margin: auto;;
     text-align: justify;
 }
 
@@ -28,6 +28,23 @@
 
 h1 {
     color: rgb(255, 238, 0);
+    font-family: 'Lilita One', sans-serif;
+    font-size: 500%;
+    font-style: normal;
+    letter-spacing: 5mm;
+    text-align: center;
+}
+
+header{
+    font-family: 'Bitter', serif;
+}
+
+h2{
+    font-family: 'Bitter', serif;
+}
+
+h3{
+    font-family: 'Bitter', serif;
 }
 
 body {
