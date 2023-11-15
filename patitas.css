@@ -1,3 +1,11 @@
+header{
+    font-family: 'Bitter', serif;
+}
+
+body {
+    background-color: rgb(210, 152, 243);
+}
+
 .flexible {
     display: flex;
     flex-flow: row wrap;
@@ -17,6 +25,7 @@
     right: 0;
     margin: auto;;
     text-align: justify;
+    font-weight:bold;
 }
 
 .container {
@@ -35,8 +44,9 @@ h1 {
     text-align: center;
 }
 
-header{
-    font-family: 'Bitter', serif;
+img {
+    width: 200px;
+    height: 250px;
 }
 
 h2{
@@ -59,10 +69,6 @@ li{
     font-family: 'Bitter', serif;
 }
 
-body {
-    background-color: rgb(210, 152, 243);
-}
-
 .divppalflex {
     display: flex;
     justify-content: space-around;
@@ -78,4 +84,3 @@ body {
     height: 200px;
 }
 
-.fondodif {background-color: rgb(255, 238, 0);}
