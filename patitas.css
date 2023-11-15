@@ -93,7 +93,61 @@ li{
     flex-wrap: nowrap;
     width: 700px;
 }
-.amarillo{
-    background-color: rgba(255, 255, 1, 0.5);
+.color{
+    background-color: rgba(255, 255, 255, 0.87);
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
+.imgan1{
+    height: 200px;
+    width: 250px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan2{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan3{
+    width: 250px;
+    height: 200px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan4{
+    height: 200px;
+    width: 250px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan5{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan6{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan7{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan8{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan9{
+    width: 250px;
+    height: 200px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan10{
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.imgan11{
+    height: 200px;
+    width: 250px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
