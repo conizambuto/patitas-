@@ -4,6 +4,9 @@ header{
 
 body {
     background-color: rgb(210, 152, 243);
+    border-radius: 2rem 2rem 0 0;
+    min-height: 100%;
+    padding: 2rem;
 }
 
 .flexible {
@@ -85,10 +88,21 @@ li{
 }
 
 .rectangular{
-    width: 400px;
-    height: 150px;
+    width: 500px;
+    height: 200px;
 }
 .amarillo{
     background-color: rgba(255, 255, 1, 0.5);
 }
 
+#izq{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+#der{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
