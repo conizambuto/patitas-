@@ -151,3 +151,8 @@ li{
     width: 250px;
     border-radius: 1rem 1rem 1rem 1rem;
 }
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
