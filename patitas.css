@@ -84,3 +84,11 @@ li{
     height: 200px;
 }
 
+.rectangular{
+    width: 400px;
+    height: 150px;
+}
+.amarillo{
+    background-color: rgba(255, 255, 1, 0.5);
+}
+
